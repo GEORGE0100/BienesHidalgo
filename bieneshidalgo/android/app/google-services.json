@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377917578946",
+    "project_id": "bieneshidalgo-7b3ea",
+    "storage_bucket": "bieneshidalgo-7b3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377917578946:android:2b5bed571e852395c8a55b",
+        "android_client_info": {
+          "package_name": "com.example.bieneshidalgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgVQgOKB5lEGliBylDheMuPlPKr7MB4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
